@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197520091884",
+    "project_id": "notificacionapp-7d879",
+    "storage_bucket": "notificacionapp-7d879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197520091884:android:bc3df43829a1445e4d93c9",
+        "android_client_info": {
+          "package_name": "com.hmurillo.notificacionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRBZrxpkhIDnF807i5z6QXj-sftMAi2VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
